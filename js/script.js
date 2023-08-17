@@ -66,7 +66,7 @@ submit.onclick = function() {
                     dataPro.push(newPro);
                 }
                 clearInputs();
-            }else if(newPro.count >= ''){
+            }else if(newPro.count = ''){
                 dataPro.push(newPro);
                 clearInputs();
             }else{
